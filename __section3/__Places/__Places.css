@@ -1,0 +1,68 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.section-3{
+    display: flex;
+    margin-left: 2rem;
+    
+}
+.box{
+    width: 26rem;
+    height: 31rem;
+    padding: 1rem;
+    margin-top: 16rem;
+    background-image: url(https://s3-alpha-sig.figma.com/img/2a76/b98e/dcf2a2591041c9935c14ee4b3e9b25a6?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0nefHTsUGokYhvpXi3DcBouBZA0AdpxhPkyxv6Z~JnZ13k5zV-23CzOet8NlWhuFUHqILqJ-Mb4QMimPtYyCHGSjjhhgJrhEqkmw9UAeuz5ePFdaNW7htHP0Vko-zK6yCK3naMoN-7OciXNPoW1BstZpFMz1NpCferN39u4YxdtmleLh4bxPgmvlTJyWirfAXE~VAz~JF9jOGilv-4SEA3yj8agFnbMom4UjYCPw11VJyr~XZgreFlwisnn6qcJAtE~HfhHsbYEKDM-1je9Xu9TezReBI4TgDB9sbII4MKRYqko-r9dvr-ExwbjbbyM7YA4Lel65Kd2TDXZmuqhIA__);
+
+}
+.box2{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+.box3{
+    width: 26rem;
+    height: 31rem;
+    margin-top: 16rem; 
+    padding: 1rem;
+    background-image: url(https://s3-alpha-sig.figma.com/img/8de0/07db/38a5df45ba786157cc7445419d7a3008?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YgKc-C5uS0kf4gKRlTt6C-69GmlpfntuO8WZPT8aJWS7~HDAyRyTozkvDNKyjsZRl9rdfR00glla2NUsEITTW1ipHD2dI-EOpcIxhYSnksfNsDrFyLBTZlagw40oRzka3lqK6EQ8o0zdEm4MLU-anHhh63rUocJHY-xd~tq9-PkwISjFeezH5jF14~2Vt1w~wq0pKzf~OIM4-sPF5vEOzjjb9vScIHmKSxiBMllu0QvXdHgv~vPP57W8OyYT4FuZQz7i4YQ8ebZWTdnds5hJrPrgyyGZ-m-n7Cga6FzPlbcScDINvJJhwsE0fXOjH3naIFit0Mf26zzghV9~JT4SBA__);   
+}
+.tugma {
+    margin: 0rem 12rem ;
+    margin-top: 7rem;
+    height: 3rem;
+    width: 8rem;
+
+}
+.n1{
+    display: flex;
+
+    margin-left: 3rem ;
+    margin-top: 28rem;
+    width: 24rem;
+    height: 6rem;
+    background-color: white;
+    border: solid white;
+}
+.n2{
+    display: flex;
+    position: absolute;
+    margin-top: 26rem;
+    margin-left: 6rem;
+    width: 26rem;
+    height: 6rem;
+    background-color: white;
+}
+.n3{
+    display: flex;
+    margin-left: 3rem ;
+    margin-top: 28rem;
+    width: 24rem;
+    height: 6rem;
+    background-color: white; 
+}

@@ -1,0 +1,18 @@
+.img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(/hero-banner\ 2.png);
+    width: 95rem;
+    height: 60rem;
+    flex-shrink: 0;
+    color: black;
+}
+.p{
+    text-align: center;
+}
+.m{
+    background-color: orange;
+    width: 200px;
+    height: 30px;
+}

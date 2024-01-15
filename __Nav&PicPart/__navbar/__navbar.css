@@ -1,0 +1,22 @@
+nav{
+    width: 1500px;
+    height: 50px;
+    background-color: transparent;
+}
+.p{
+    color: #2C2C2C;
+text-align: center;
+font-family: Noto Serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 200;
+line-height: normal;
+}
+.t{
+    color: #2C2C2C;
+font-family: Noto Serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

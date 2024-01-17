@@ -1,0 +1,65 @@
+.con1__pic {
+    width: 35.625rem;
+    height: 43rem;
+    flex-shrink: 0;
+}
+.Offering {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+    gap: 6rem;
+    width: 100vw;
+}
+.Offering__con2 {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem;
+    width: 40rem;
+    height: 43rem;
+    gap: 4rem;
+}
+.con2__title {
+    color: #2C2C2C;
+    font-family: Serif;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.info__title {
+    color: #000;
+    font-family: Noto Serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.info__undertitle {
+    color: #A79997;
+    font-family: Product Sans;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem; /* 144.444% */
+}
+.extra__WorldClass {
+    color: #000;
+    font-family: Noto Serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.con2__extra {
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+}
+.extra__Support {
+    color: #000;
+    font-family: Noto Serif;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

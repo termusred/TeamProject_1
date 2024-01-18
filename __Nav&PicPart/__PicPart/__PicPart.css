@@ -1,17 +1,18 @@
-.img{
+.Trip{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url(/hero-banner\ 2.png);
+    background-size: cover;
+    background-image: url(https://s3-alpha-sig.figma.com/img/5344/d62f/0369f714d60a1c6704fe01f5c9820865?Expires=1706486400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CEfmchyVOj6Py6GK4XX0e~RTgVDvTHHR~FFQOyI7Yuc~2qA48QH0kO3AaTUOU4Ib4-AawgmyMD-1NS3JGEbz1xNl0EG92Y7-iNVKhe-nW5S8MorgL11nuUCZADxDXcJLJb-Au~mnb8Il5XpUChHwt-8quo-xi4Db6UDXpSaKQ-PtMkorOSVdS45AIdpvqm9578RpB3BXdPBZNzQaJp8BVxiWiUSTUzIhq1vrJZNA~OGO~pkO2JfrMgPU~5H3IHGj6TDKLyBVQc5yLInX~vfLIl050BH~tJMvACPxZjl5abNYUNDe7VPqvIx69RBrj8VBDQ0zWBV8YGmDz7DC3KY9kQ__);
     width: 95rem;
     height: 60rem;
     flex-shrink: 0;
     color: black;
 }
-.p{
+.Trip__interface{
     text-align: center;
 }
-.m{
+.interface__button{
     background-color: orange;
     width: 200px;
     height: 30px;
